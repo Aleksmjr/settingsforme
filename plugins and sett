@@ -1,0 +1,68 @@
+{
+"files.autoSave": "onFocusChange",
+"editor.fontSize": 15,
+"editor.tabSize": 2,
+"editor.wordWrap": "on",
+"editor.formatOnPaste": true,
+"editor.formatOnSave": true,
+"beautify.onSave": true,
+"workbench.colorTheme": "Material Theme Ocean",
+"workbench.iconTheme": "material-icon-theme",
+"prettier.singleQuote": true,
+"[html]": {
+"editor.defaultFormatter": "HookyQR.beautify"
+},
+"[css]": {
+"editor.defaultFormatter": "HookyQR.beautify"
+},
+"liveServer.settings.donotShowInfoMsg": true,
+"liveSassCompile.settings.generateMap": false,
+"git.autofetch": true,
+"liveSassCompile.settings.formats": [
+{
+"format": "expanded",
+"extensionName": ".css",
+"savePath": "/css/"
+}
+],
+"liveSassCompile.settings.includeItems": [],
+"liveSassCompile.settings.autoprefix": [],
+"liveSassCompile.settings.excludeList": [
+"**/node_modules/**",
+".vscode/**"
+],
+"php.validate.executablePath": "",
+"phpserver.browser": "google-chrome",
+"[javascript]": {
+"editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"sass.andStared": [
+"active",
+"focus",
+"hover",
+"nth-child"
+],
+"editor.suggestSelection": "first",
+"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+"eslint.nodePath": "",
+"emmet.excludeLanguages": [
+"markdown"
+],
+"AllAutocomplete.languageSpecialCharacters": {
+"css": "^[\\.#]",
+"scss": "^[\\.#]",
+"csv": "^[\\: ]"
+},
+"explorer.confirmDelete": false,
+"editor.linkedEditing": true,
+"explorer.confirmDragAndDrop": false
+}
+НАСТРОЙКА ТЕКСТА И ЕЛОЧКИ И ВАЩЕ ВСЕГО НАХ
+плагины (лайв серверы сасс и хтмл)
+бьютифай
+html - четотам (оранж иконка)
+алл авто комплит
+ру язык
+претиер (хз пока)
+vscode icons
+emmet (мифрил)
