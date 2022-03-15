@@ -1,0 +1,5 @@
+OpenServer
+файлы php
+phpmailer > Exception.php/PHPmailer.php/SMTP.php (все внутри зип файла на гите)
+send.php внутри
+изменяем базовые данные name, email и прочее
